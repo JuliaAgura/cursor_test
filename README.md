@@ -28,56 +28,54 @@ This section (which can be called 'profile', 'health information', 'data', 'heal
 -----
 
 
-- name: Olivia Vance
-- archetype: The Passive Acute
-- medical_plan: Manulife Plan C: Enhanced
-- gender: female
-- tagline: I know I need to treat my body better, but I avoid it sometimes.
-- color: #2BA798
+- color: #24707C
+- tagline: Future me will deal with the repercussions of today’s actions.
+- medical_plan: Manulife Plan A: Flexible
+- name: Marcus Bellweather
+- gender: male
+- archetype: The Passive At-Risk
 
 ## Health Story
 
 ### conditions
-**Diagnosed health conditions, disorders, injuries, or relevant family history.**
+**This is a log of the user's diagnosed medical conditions, ongoing health statuses, and relevant family history, sorted from most to least recent. Use this information to understand the user's core health context, potential risks, and the 'why' behind their needs. If the user mentions symptoms, check this list for a related condition that could be the cause. Proactively offer advice relevant to these conditions. For example, if the user has 'Prediabetes' and asks about a cold, remind them to monitor their blood sugar. Cross-reference with `medications` to see how conditions are being managed.**
 
-- Diagnosis: Recurrent acute bronchitis. (2023-09-23)
-- Diagnosis: Anemia following pregnancy. (2019-05-04)
-- Diagnosis: Recurrent acute viral sinusitis and pharyngitis. (2017-04-25)
-- History: Victim of intimate partner abuse. (2017-03-18)
-- Diagnosis: Stress. (2014-03-15)
-- Diagnosis: Recurrent urinary tract infections. (2006-04-30)
+- He was diagnosed with obesity (BMI 30+) on January 29, 2025.
+- A diagnosis of viral sinusitis was made for him on January 14, 2024.
+- He was diagnosed with acute bronchitis on June 24, 2020.
+- On June 17, 2020, he received a diagnosis of prehypertension.
+- He was diagnosed with gingivitis on January 20, 2016.
+- His history of social isolation was first noted on January 16, 2013.
 
 ### hobbies
-**Activities and pastimes for physical, mental, or social health.**
+**This is a list of the user's hobbies and lifestyle activities, sorted from most to least recent. Use this information to personalize your interactions and understand the user's lifestyle. This context can help explain certain health risks or benefits. Relate your advice to their hobbies. For example, if suggesting exercise for their 'Prediabetes', recommend activities related to their interest in 'hiking'. Use hobbies to gently infer lifestyle factors; an active hobby like 'plays tennis regularly' is a positive factor for managing 'obesity', while a sedentary hobby might prompt suggestions for more movement.**
 
-- Enjoys hiking. (2024-01-10)
-- Enjoys weekend brunch with friends. (2023-05-20)
-- Attends yoga classes. (2022-09-15)
-- Bakes sourdough bread. (2021-03-01)
+- His hobby of participating in online fantasy sports leagues began on September 5, 2024.
+- He began building and painting tabletop game miniatures on February 10, 2024.
+- He started mastering barbecue and smoking techniques on August 20, 2023.
+- On April 15, 2023, he started collecting and restoring vintage arcade machines.
 
 ### immunizations
-**History of vaccines and immunizations received by the user.**
+**This is a detailed log of the user's vaccination history, sorted from most to least recent. Use this to answer questions about vaccine status and to identify potential, common, and temporary side effects. If the user reports symptoms like a sore arm or mild fever, check this list for a recent vaccination as a likely cause. Check this list to see if the user is due for routine vaccinations, like a seasonal flu shot, and proactively suggest it when relevant.**
 
-- Vaccine: Influenza, seasonal, injectable, preservative free. (2023-03-25)
-- Vaccine: Influenza, seasonal, injectable, preservative free. (2021-07-31)
-- Vaccine: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose. (2021-05-22)
-- Vaccine: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose. (2021-04-24)
-- Vaccine: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed. (2020-03-21)
-- Vaccine: Influenza, seasonal, injectable, preservative free. (2020-03-21)
-- Vaccine: Influenza, seasonal, injectable, preservative free. (2017-03-18)
+- He received a seasonal, injectable, preservative-free influenza vaccine on January 29, 2025.
+- On April 28, 2021, he was administered a 30 mcg/0.3 mL dose of a COVID-19 mRNA vaccine with LNP-S and PF.
+- He took his first 30 mcg/0.3 mL dose of the COVID-19 mRNA vaccine on April 7, 2021.
+- He was given a Td (adult) vaccine with 5 Lf tetanus toxoid, preservative-free, and adsorbed on January 23, 2019.
+- He got a seasonal, injectable, preservative-free influenza vaccine on January 23, 2019.
+- On January 20, 2016, he had a seasonal, injectable, preservative-free influenza vaccine.
 
 ### medications
-**Medications prescribed or taken by the user.**
+**This is a log of all medications the user has been prescribed or is taking, including over-the-counter drugs, sorted from most to least recent. Use this list to answer questions about the user's prescriptions, identify potential side effects, and understand their current treatment plans. If the user reports feeling unwell, check this list for medications with known side effects that match their symptoms. Connect these medications to the `conditions` they are meant to treat to build a complete picture of the user's care.**
 
-- Medication: Acetaminophen/Dextromethorphan/Doxylamine oral solution for cold/flu. (2023-09-23)
-- Medication: Etonogestrel 68 MG subcutaneous contraceptive implant. (2020-01-11)
+- On June 24, 2020, he began using an Albuterol inhaler for bronchitis as needed.
+- He started self-managing his pain with Ibuprofen 200mg on January 1, 2020.
 
 ### procedures
-**Healthcare procedures performed for diagnosis, treatment, or prevention.**
+**This is a log of all healthcare procedures performed for diagnosis, treatment, or prevention, from major surgeries to routine check-ups, screenings, and consultations, sorted from most to least recent. Use this to understand the user's recent medical history and to explain symptoms that might be related to a recent intervention. For example, if the user reports localized pain, check for a recent 'immunization' or 'procedure' in that area. Use this to anticipate follow-up needs and see how `conditions` are being actively managed.**
 
-- Procedure: Tubal ligation. (2025-01-23)
-- Procedure: Subcutaneous contraceptive removal. (2023-05-20)
-- Procedure: Dental exam, cleaning, and X-rays. (2021-08-14)
-- Procedure: Subcutaneous contraceptive insertion. (2020-01-11)
-- Procedure: Prenatal care for normal pregnancy (screenings, ultrasounds, delivery). (2018-09-29)
-- Procedure: Screenings for depression and anxiety. (2017-03-18)
+- On January 29, 2025, he received lifestyle modification counseling for obesity.
+- He had a medical visit for a cough, which resulted in a bronchitis diagnosis on June 24, 2020.
+- He was advised to monitor his blood pressure at home on June 17, 2020, but there was no follow-up.
+- On February 3, 2016, he received dental treatment for gingivitis, including a deep cleaning and education.
+- He was given a dental referral for gingivitis on January 20, 2016.
